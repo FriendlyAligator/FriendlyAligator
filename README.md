@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sanskar Shaw 👋
 
-<!--
-**FriendlyAligator/FriendlyAligator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Full-Stack / AI Developer  
+📍 Kolkata, India
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+- Python (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Titan Fitness Web App  
+🔹 AI Resume Analyzer  
+🔹 AI Mock Interview System  
+🔹 Smart Resource Management System
+
+## Currently Learning
+- Data Science
+- Full Stack Development
+- AI Projects
+
+## Connect With Me
+LinkedIn: (add your link)
+Email: (optional)
