@@ -25,5 +25,5 @@
 - AI Projects
 
 ## Connect With Me
-LinkedIn: (add your link)
-Email: (optional)
+LinkedIn: https://www.linkedin.com/in/sanskar-shaw-0845b62a0/
+Email: shawsanskar0311@gmail.com
